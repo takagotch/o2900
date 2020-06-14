@@ -1,6 +1,6 @@
 ---
 title: Pub Notes
-permalink: /notes/
+permalink: {{ site.url }}/notes/
 layout: page
 excerpt: Catatan Public agar enggak usah pusing-pusing mengingat.
 comments: false
