@@ -1,13 +1,13 @@
 - title: home
-  url: /
+  url: https://takagotch.github.io/page68/
   external: false
 
 - title: about
-  url: /about/
+  url: https://takagotch.github.io/page68/about/
   external: false
 
 - title: notes
-  url: /notes/
+  url: https://takagotch.github.io/page68//notes/
   external: false # set true if you using external link, see bellow
 
 # Example:
