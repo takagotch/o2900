@@ -1,5 +1,5 @@
 # Site settings
-title: Klise Theme
+title: Takashi Yoshioka
 description: >-
   He's writing in Bahasa about web technology and experience as a journal 
   for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
@@ -11,17 +11,17 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Klisé Theme
+  name: Takashi Yoshioka
   bio: >-
     The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
     meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username
+  username: takagotch
   email: your-email@email.com
   avatar: /assets/img/avatar.jpg
 
 # Url settings
-url: "https://klise.now.sh"
-baseurl:
+url: "https://takagotch.github.io/"
+baseurl: "/page68"
 permalink: /:title/
 google_analytics:
 fb_appid:
@@ -80,3 +80,5 @@ plugins:
   - jekyll-sass-converter
   - jekyll-sitemap
   - jekyll-postfiles
+
+
