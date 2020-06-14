@@ -17,7 +17,7 @@ author:
     meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
   username: takagotch
   email: your-email@email.com
-  avatar: /assets/img/avatar.jpg
+  avatar: https://takagotch.github.io/page68/assets/img/avatar.jpg
 
 # Url settings
 url:     "https://takagotch.github.io/page68"
