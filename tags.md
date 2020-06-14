@@ -1,6 +1,6 @@
 ---
 title: Tags
-permalink: /tags/
+permalink: https://takagotch.github.io/page68/tags/
 layout: page
 excerpt: Sorted article by tags.
 ---
