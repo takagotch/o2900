@@ -1,6 +1,6 @@
 ---
 title: Pub Notes
-permalink: https://takagotch.github.io/page68/notes/
+permalink: /notes/
 layout: page
 excerpt: Catatan Public agar enggak usah pusing-pusing mengingat.
 comments: false
